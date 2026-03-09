@@ -1,5 +1,5 @@
 from strands import Agent
-from lm_studio import LMStudioAIService
+from .lm_studio import LMStudioAIService
 
 
 class AgentFactory:
